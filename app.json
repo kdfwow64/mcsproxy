@@ -1,0 +1,6 @@
+{
+    "Default": {
+        "Iface": "eth0",
+        "LocalIp":"default"
+    }
+}
